@@ -14,7 +14,7 @@
 
    <properties>
 
-              <java-version>1.7</java-version>
+              <java-version>1.8</java-version>
 
               <org.springframework-version>4.0.3.RELEASE</org.springframework-version>
 
@@ -468,9 +468,9 @@
 
         <configuration>
 
-          <source>1.7</source>
+          <source>1.8</source>
 
-          <target>1.7</target>
+          <target>1.8</target>
 
         </configuration>
 
